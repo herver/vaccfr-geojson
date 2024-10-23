@@ -1,0 +1,3 @@
+[submodule "vatspy-data-project"]
+	path = vatspy-data-project
+	url = https://github.com/vatsimnetwork/vatspy-data-project.git
